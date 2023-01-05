@@ -1,2 +1,2 @@
-# -Play-Store-App-Review-Analysis-
-Analyzing the Play store apps review and user review
+# -Play-Store-App-Reviews-Analysis-
+Analyzing the Play store apps reviews and user reviews
